@@ -1,0 +1,5 @@
+El home de la tienda del Cyber es para todos,
+pero si se quiere ver los botones de crud, se tiene iniciar sesión, el bakend validará los
+datos si es admin o clientem, que los datos del admin ya esta previamente en el bakend.
+Si es admin entonces se le reedirifira una página similar en casi todo al que ve el cliente con la diferencia de que la pagina que se le muestra al admin es para realizar CRUD.
+En cambio si se inicia sesión y se comprueba que es cliente la pantalla practicamente solo regresará al home.

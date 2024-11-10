@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop Gamer",
+    "descripcion": "Laptop de alto rendimiento para videojuegos con procesador Intel Core i7 y tarjeta gráfica RTX 3060.",
+    "precio": 25000,
+    "stock": 10,
+    "categoria": "Electrónica",
+    "imagen": "img/laptop-gamer.jpeg"
+  },
+  {
+    "id": 2,
+    "nombre": "Auriculares Inalámbricos",
+    "descripcion": "Auriculares bluetooth con cancelación de ruido y calidad de sonido HD.",
+    "precio": 1500,
+    "stock": 50,
+    "categoria": "Audio",
+    "imagen": "img/auriculares-inalambricos.jpeg"
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecánico RGB",
+    "descripcion": "Teclado mecánico con retroiluminación RGB y switches Cherry MX Red.",
+    "precio": 1200,
+    "stock": 30,
+    "categoria": "Periféricos",
+    "imagen": "img/teclado-mecanico-rgb.jpeg"
+  },
+  {
+    "id": 4,
+    "nombre": "Silla Ergonómica",
+    "descripcion": "Silla ergonómica para oficina con soporte lumbar ajustable.",
+    "precio": 7000,
+    "stock": 15,
+    "categoria": "Muebles",
+    "imagen": "img/silla-ergonomica.jpeg"
+  },
+  {
+    "id": 5,
+    "nombre": "Monitor UltraWide 29\"",
+    "descripcion": "Monitor UltraWide de 29 pulgadas con resolución Full HD.",
+    "precio": 8000,
+    "stock": 20,
+    "categoria": "Electrónica",
+    "imagen": "img/monitor-ultrawide-29.jpeg"
+  },
+  {
+    "id": 6,
+    "nombre": "Ratón Gaming",
+    "descripcion": "Ratón ergonómico para videojuegos con hasta 16000 DPI y luces RGB.",
+    "precio": 800,
+    "stock": 40,
+    "categoria": "Periféricos",
+    "imagen": "img/raton-gaming.jpeg"
+  },
+  {
+    "id": 7,
+    "nombre": "Smartphone Android",
+    "descripcion": "Smartphone con pantalla AMOLED de 6.5 pulgadas y cámara de 108 MP.",
+    "precio": 12000,
+    "stock": 25,
+    "categoria": "Electrónica",
+    "imagen": "img/smartphone-android.jpeg"
+  },
+  {
+    "id": 8,
+    "nombre": "Tablet 10\"",
+    "descripcion": "Tablet de 10 pulgadas con 64 GB de almacenamiento y batería de larga duración.",
+    "precio": 5000,
+    "stock": 18,
+    "categoria": "Electrónica",
+    "imagen": "img/tablet-10.jpeg"
+  },
+  {
+    "id": 9,
+    "nombre": "Disco Duro Externo 1TB",
+    "descripcion": "Disco duro externo de 1TB de capacidad, compatible con USB 3.0.",
+    "precio": 1200,
+    "stock": 35,
+    "categoria": "Almacenamiento",
+    "imagen": "img/disco-duro-externo-1tb.jpeg"
+  },
+  {
+    "id": 10,
+    "nombre": "Bocinas Bluetooth",
+    "descripcion": "Bocinas portátiles bluetooth con sonido envolvente 360°.",
+    "precio": 1300,
+    "stock": 22,
+    "categoria": "Audio",
+    "imagen": "img/bocinas-bluetooth.jpeg"
+  }
+]

@@ -1,0 +1,13 @@
+# Ignorar el archivo de entorno en la carpeta back
+back/.env
+
+# Ignorar dependencias de Node.js
+node_modules/
+
+# Archivos de log
+logs/
+*.log
+
+# Configuración específica del sistema operativo
+.DS_Store
+Thumbs.db
