@@ -49,7 +49,7 @@ function eliminarCurso(e) {
  
     if(e.target.classList.contains("borrar-curso")){
  
-        const id = e.target.getAttribute("data-id");
+        const id = e.target.getAttribute("id");
  
         const existe = articulosCarrito.some( curso => curso.id === id && curso.cantidad > 1 );
  
@@ -83,7 +83,7 @@ function leerDatosCurso(curso) {
         imagen: curso.querySelector('img').src, 
         titulo: curso.querySelector('h4').textContent,
         precio: curso.querySelector('.precio span').textContent,
-        id: curso.querySelector('a').getAttribute('data-id'),
+        id: curso.querySelector('a').getAttribute('id'),
         cantidad: 1
     }
 
@@ -128,7 +128,7 @@ function carritoHTML() {
             <td>${precio}</td>
             <td>${cantidad}</td>
             <td>
-                <a href="#" class="borrar-curso" data-id="${ id}"> X </a>
+                <a href="#" class="borrar-curso" id="${ id}"> X </a>
             </td>
         `
 
